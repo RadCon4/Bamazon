@@ -146,6 +146,3 @@ If you have any questions about this project or the material we have covered, pl
 
 **Good Luck!**
 
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
