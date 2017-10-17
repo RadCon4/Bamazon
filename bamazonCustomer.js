@@ -74,7 +74,7 @@ function promptUserPurchase() {
 					})
 
 				} else {
-					console.log('Insufficient stock.  Please modify your order.');
+					console.log('Insufficient Quantity!  Please modify your order.');
 					console.log("\n---------------------------------------------------------------------\n");
 
 					displayInventory();
