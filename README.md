@@ -14,6 +14,8 @@ Example of a purchase request with enough inventory in stock.  Order is complete
 
 ![Customer Portal](Images/customer-view.png)
 
+![Customer Purchase - Sufficient Quantity](https://github.com/RadCon4/Week-12---Bamazon/blob/master/Screenshots%20of%20Working%20Files/Customer%20Scripts/Purchase_Sufficient_Inventory.png "Customer Purchase - Sufficient Quantity")
+
 Example of a purchase with insufficient inventory in stock.  Order does not complete and customer is asked to modify order:
 
 ![Customer Portal](Images/customer-view.png)
