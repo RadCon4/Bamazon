@@ -1,0 +1,26 @@
+{
+  "name": "due_10_17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadCon4/Week-12---Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadCon4/Week-12---Bamazon/issues"
+  },
+  "homepage": "https://github.com/RadCon4/Week-12---Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
